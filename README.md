@@ -1,8 +1,6 @@
 # VantonyViewTool
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/vantony_view_tool`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Just learning how to create a ruby gem. A simple gem which can output your name and message with copyright symbol.
 
 ## Installation
 
@@ -32,7 +30,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/vantony_view_tool.
+Bug reports and pull requests are welcome on GitHub at https://github.com/vishalantony/vantony_view_tool.
 
 ## License
 
