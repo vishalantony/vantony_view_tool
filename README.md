@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+VantonyViewTool::Renderer.copyright('Vishal Antony', "All rights reserved")
+```
 
 ## Development
 
